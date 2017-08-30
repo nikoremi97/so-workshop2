@@ -1,7 +1,7 @@
 # Taller 2
 
 **Nombre:** Nicolas Recalde   
-**Código:** A00065888
+**Código:** A00065888  
 **Github URL:** https://github.com/nikoremi97/so-workshop2/new/A00065888/so-workshop2
 
 ## Descripción
