@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+En este taller nos eteramos acerca de la historia de los sitemas operativos, entendiendo la transición que tuvo y la importancia en cada paso que se ha dado en el tema.
 
 ## Referencias
 
